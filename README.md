@@ -142,7 +142,8 @@ pairwise pass.
 - Author churn-velocity over time
 - Git blame survival analysis (lines still live after N days)
 
-PRs welcome — see `CONTRIBUTING.md`.
+PRs welcome — open an issue first for anything bigger than a small bug fix
+so we can agree on shape before you spend time on it.
 
 ## License
 
